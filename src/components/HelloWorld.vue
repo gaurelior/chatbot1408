@@ -34,6 +34,8 @@
           <tr>
             <th>Tipos de Ratos</th>
             <th>Comportamento</th>
+            ,
+            
             <th>Imagens</th>
           </tr>
           <tr>
